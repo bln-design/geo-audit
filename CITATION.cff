@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "geo-audit: a single-file GEO audit for AI search visibility"
+type: software
+authors:
+  - name: "BLN Design and Architecture"
+version: "1.0.0"
+date-released: "2026-10-23"
+license: MIT
+url: "https://github.com/bln-design/geo-audit"
+repository-code: "https://github.com/bln-design/geo-audit"
+keywords:
+  - generative engine optimization
+  - GEO
+  - AI search
+  - SEO
+  - robots.txt
+  - llms.txt
