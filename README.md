@@ -1,4 +1,4 @@
-<!-- banner: assets/banner.png -->
+![geo-audit](assets/banner.png)
 
 # geo-audit
 
