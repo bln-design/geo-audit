@@ -90,6 +90,8 @@ The score is the weighted share of passing checks, with warnings counted as half
 
 The content checks (sources, quotations, statistics) follow *GEO: Generative Engine Optimization* by Aggarwal, Murahari, Rajpurohit, Kalyan, Narasimhan and Deshpande ([arXiv:2311.09735](https://arxiv.org/abs/2311.09735), KDD 2024). The paper reports visibility gains of up to 40% in generative engine responses, with quotation addition, statistics addition and source citation among the strongest methods.
 
+The tool was first written for [bilirkisiasistani.com](https://bilirkisiasistani.com), a small Turkish-language information site about expert reports in traffic accident cases. Fixing what it reported took that site from 80 to 98 on its own score.
+
 Those numbers come from a controlled benchmark with a simulated generative engine. They are not guarantees for any production AI search product, and the percentages in the fix hints should be read that way. Never add quotes or statistics you cannot verify.
 
 ## IndexNow (optional)
